@@ -38,4 +38,3 @@ The raw data was subjected to a rigorous processing sequence aimed at noise supp
 
 ### 4. Resolution Enhancement
 * **Deconvolution:** Applied Spectral Whitening (zero-phase deconvolution) to the stacked trace to flatten the spectrum and improve vertical resolution. 
-این نسخه بر روی روش‌ها و نتایج کلیدی تمرکز دارد و تمام مراحل اصلی را به طور خلاصه پوشش می‌دهد.
