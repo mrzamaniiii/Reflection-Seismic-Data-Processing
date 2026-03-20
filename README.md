@@ -1,10 +1,10 @@
-<img width="1332" height="481" alt="image" src="https://github.com/user-attachments/assets/0dc33896-9173-4478-9ebc-c7beabe52b19" />
+<img width="1212" height="361" alt="image" src="https://github.com/user-attachments/assets/0dc33896-9173-4478-9ebc-c7beabe52b19" />
 
 # Seismic Reflection Data Processing
 
 ## Overview
 
-This repository documents the complete processing workflow applied to a Common Shot seismic reflection gather (RRAW.SGY). The project aims to convert raw field data into a clear stacked section by systematically addressing noise, determining the subsurface velocity structure, and enhancing resolution. The processing was primarily performed using the Reflexw software environment.
+This repository documents the complete processing workflow applied to a Common Shot seismic reflection gather (RRAW.SGY). The project aims to convert raw field data into a clear stacked section by systematically addressing noise, determining the subsurface velocity structure, and enhancing resolution.
 
 ## Data Acquisition Specifications
 
