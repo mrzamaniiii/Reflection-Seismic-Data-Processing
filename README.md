@@ -1,4 +1,4 @@
-<img width="1200" height="349" alt="image" src="https://github.com/user-attachments/assets/0dc33896-9173-4478-9ebc-c7beabe52b19" />
+<img width="1100" height="249" alt="image" src="https://github.com/user-attachments/assets/0dc33896-9173-4478-9ebc-c7beabe52b19" />
 
 # Seismic Reflection Data Processing
 
